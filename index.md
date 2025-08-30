@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## This is a Test Header
 `Hello, world!`
 
-## Luke's First CS193 Homework
+# Luke's First CS193 Homework
 - The course goes through things I will actually use
 - I'm learning things even though I'm not new to GitHub (gh pages, etc.)
 - The assignments are interactive and interesting
